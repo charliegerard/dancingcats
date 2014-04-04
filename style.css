@@ -20,3 +20,10 @@
     right: 0%;
   }
   
+  #twitter {
+    z-index: +100;
+    right: 0;
+    top: 0;
+    padding-top: 2em;
+    position: absolute;
+  }
