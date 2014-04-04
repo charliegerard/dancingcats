@@ -1,0 +1,22 @@
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to { 
+    -webkit-transform: rotate(359deg);
+  }
+}
+
+.rotatingCat{
+    -webkit-animation-name: rotate; 
+    -webkit-animation-duration: 4s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    left: 60%;
+  }
+
+.grumpy{
+    bottom: 0%;
+    right: 0%;
+  }
+  
