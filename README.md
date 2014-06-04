@@ -1,16 +1,15 @@
 #Dancing cats
 
----
+If you want to check out this website, please visit http://charliegerard.github.io/dancingcats and don't forget to turn the sound up!
 
-If you want to check out this website, please visit http://charliegerard.github.io/dancingcats
-Please turn the sound up for best experience!
+##FUNCTIONALITY:
 
+* Nothing in particular, just a stupid website with lolcats gifs that I did when I started learning more about Javascript.
 
-This website has just been created in a night to start using jQuery.
+#TODO:
 
-The first goal was to make a cat walk from left to right on the screen.
+* Refactor the code so it doesn't look like it was my first attempt to Javascript.
 
-Later on, I had extra spare time so I decided to customise it a bit and add cats, effects and a song.
 
 
 
