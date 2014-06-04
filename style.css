@@ -20,11 +20,19 @@
     right: 0%;
   }
   
+<<<<<<< HEAD
+  #twitter {
+=======
     #twitter {
+>>>>>>> origin/gh-pages
     z-index: +100;
     right: 0;
     top: 0;
     padding-top: 2em;
     position: absolute;
+<<<<<<< HEAD
+  }
+=======
   }
   
+>>>>>>> origin/gh-pages
