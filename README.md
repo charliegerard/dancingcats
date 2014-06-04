@@ -6,7 +6,7 @@ If you want to check out this website, please visit http://charliegerard.github.
 
 * Nothing in particular, just a stupid website with lolcats gifs that I did when I started learning more about Javascript.
 
-#TODO:
+##TODO:
 
 * Refactor the code so it doesn't look like it was my first attempt to Javascript.
 
