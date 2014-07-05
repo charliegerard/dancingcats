@@ -21,4 +21,9 @@
   .laser, .fluffy, .rotatingCat{
   	width: 50%;
   }
+
+  .audio{
+  	position: absolute;
+  	z-index: -10;
+  }
 }
