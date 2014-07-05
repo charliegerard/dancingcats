@@ -1,4 +1,4 @@
-window.onload = function(){
+$(document).ready(function(){
 	var grumpy = document.getElementsByTagName('img')[0];
 	var nyan = document.getElementsByTagName('img')[1];
 	var disco = document.getElementsByTagName('img')[2];
@@ -57,4 +57,4 @@ window.onload = function(){
 	 var catFallingTime = window.setInterval(catFalling, 30);
 	}
 	return [catWalk()]
-}
+});
