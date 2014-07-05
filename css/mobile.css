@@ -1,0 +1,24 @@
+@media only screen and (max-width : 480px) {
+  body{
+	background-image: url("http://jeweell.com/data_images/out/81/1363793-galaxy.jpg");
+	background-size: 350%;
+  }
+
+  .grumpy, .disco{
+    width: 40%;
+  }
+
+  .nyan{
+  	width: 80%;
+  	top: 40%;
+  }
+
+  .beanie{
+  	width: 50%;
+  	left: 0;
+  }
+
+  .laser, .fluffy, .rotatingCat{
+  	width: 50%;
+  }
+}

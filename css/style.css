@@ -7,17 +7,29 @@
   }
 }
 
+body{
+  background-image: url("http://jeweell.com/data_images/out/81/1363793-galaxy.jpg");
+  background-size: cover;
+}
+
+
+img{
+  position: absolute;
+}
+
 .rotatingCat{
     -webkit-animation-name: rotate; 
     -webkit-animation-duration: 4s; 
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
     left: 60%;
+    width: 200px;
   }
 
 .grumpy{
-    bottom: 0%;
-    right: 0%;
+    bottom: 0;
+    right: 0;
+    width: 700px;
   }
   
 
@@ -31,6 +43,14 @@
 
 .nyan{
   width: 700px;
+}
+
+.disco, .beanie{
+  width: 200px;
+}
+
+.fluffy, .laser{
+  width: 250px;
 }
 
   
