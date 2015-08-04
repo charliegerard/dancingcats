@@ -2,13 +2,13 @@
   from {
     -webkit-transform: rotate(0deg);
   }
-  to { 
+  to {
     -webkit-transform: rotate(359deg);
   }
 }
 
 body{
-  background-image: url("http://jeweell.com/data_images/out/81/1363793-galaxy.jpg");
+  background-image: url("../images/galaxy.png");
   background-size: cover;
 }
 
@@ -18,8 +18,8 @@ img{
 }
 
 .rotatingCat{
-    -webkit-animation-name: rotate; 
-    -webkit-animation-duration: 4s; 
+    -webkit-animation-name: rotate;
+    -webkit-animation-duration: 4s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
     left: 60%;
@@ -31,7 +31,7 @@ img{
     right: 0;
     width: 700px;
   }
-  
+
 
 #twitter {
   z-index: +100;
@@ -53,5 +53,5 @@ img{
   width: 250px;
 }
 
-  
+
 
